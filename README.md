@@ -73,6 +73,8 @@ Example cropped regions with predicted vs ground truth text, and calculated CER/
 
 ![EasyOCR Result](images/EasyOCR_Image.png)
 
+![Image](images/Image1.png)
+
 ---
 
 ## ❗️ **Error Analysis**
