@@ -71,7 +71,7 @@ This project implements an **end-to-end Optical Character Recognition (OCR) pipe
 
 Example cropped regions with predicted vs ground truth text, and calculated CER/WER scores.
 
-![Cropped Example](images/EasyOCR image.png)
+![EasyOCR Result](images/EasyOCR_Image.png)
 
 ---
 
